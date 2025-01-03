@@ -1,6 +1,7 @@
 # Go Sort Algorithms
-
-<img src=".\assets\Go-Sort.png#pic_center" alt="Go-Sort" width="50%" />
+<div align=center>
+<img src=".\assets\Go-Sort.png" alt="Go-Sort" width="50%" />
+</div>
 
 ## 1 Introduction
 
