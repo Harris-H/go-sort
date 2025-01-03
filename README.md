@@ -1,6 +1,6 @@
 # Go Sort Algorithms
 
-<img src=".\assets\Go-Sort.png" alt="Go-Sort" style="zoom: 33%;" />
+<img src=".\assets\Go-Sort.png" alt="Go-Sort" width="50%" />
 
 ## 1 Introduction
 
