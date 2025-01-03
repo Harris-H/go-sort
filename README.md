@@ -32,4 +32,4 @@ To run the benchmarks:
 go test -bench . -benchmem
 ```
 
-![image-20250103155417356](.\assets\benchmark.png)
+<img src=".\assets\benchmark.png" alt="Benchmark" />
